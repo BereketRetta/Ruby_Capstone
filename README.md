@@ -17,12 +17,12 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
+- ruby install
+- clone repo from [@githubhandle](https://github.com/SirriRyisa)
+- run on your local machine: git clone and the paste the link 
+- cd OOP-School-library
+- code . (Takes you to VS code editor)
 
 
 ## Authors
