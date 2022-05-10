@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Ruby Capstone Project
 
-> Description the project.
+> In this project, I will create a console app that will help you to keep a record of different types of things you won: books, music albums, movies, and games. Everything will be based on the UML class diagram presented below. The data will be stored in JSON files but I will also prepare a database with tables structure analogical to the program's class structure.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Git
 
 ## Live Demo (if available)
 
@@ -24,27 +23,15 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@BereketRetta](https://github.com/BereketRetta)
+- Twitter: [@bekiopia](https://twitter.com/bekiopia)
+- LinkedIn: [Bereket-Retta](https://linkedin.com/in/bereketretta)
 
 👤 **Author2**
 
