@@ -10,24 +10,24 @@
 - Ruby
 - Git
 
-## Live Demo (if available)
+## Video Presentation
 
-[Live Demo Link](https://livedemo.com)
+[Presentation Link](https://livedemo.com)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 - ruby install
-- clone repo from [@githubhandle](https://github.com/SirriRyisa)
+- clone repo from [@BereketRetta](https://github.com/BereketRetta/Ruby_capstone)
 - run on your local machine: git clone and the paste the link 
-- cd OOP-School-library
+- cd Ruby_Capstone
 - code . (Takes you to VS code editor)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Bereket Adego Retta**
 
 - GitHub: [@BereketRetta](https://github.com/BereketRetta)
 - Twitter: [@bekiopia](https://twitter.com/bekiopia)
