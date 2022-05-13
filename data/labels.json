@@ -1,7 +1,10 @@
 [  {
-  "title" : "Book",
-  "color" : "Green"
-},  {
-  "title" : "Moon",
-  "color" : "red"
-}]
+    "title" : "Book",
+    "color" : "Green"
+  },  {
+    "title" : "Moon",
+    "color" : "red"
+  },  {
+    "title" : "My life",
+    "color" : "brown"
+  }]
