@@ -12,7 +12,7 @@
 
 ## Video Presentation
 
-[Presentation Link](https://drive.google.com/file/d/1FIKAdINC_T5bXCCM_YluDhXuiLTZhE2T/view?usp=sharing)
+[Presentation Link]()
 
 
 ## Getting Started
