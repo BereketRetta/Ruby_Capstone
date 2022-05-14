@@ -8,4 +8,9 @@
     "publisher" : "Pierre Publishing",
     "cover_state" : "Great",
     "publish_date" : "22-2-1988"
+  },  {
+    "name" : "Sirri",
+    "publisher" : "Beki publishings inc",
+    "cover_state" : "good",
+    "publish_date" : "good"
   }]
