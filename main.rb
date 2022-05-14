@@ -16,7 +16,6 @@ class Main
     puts '2 - List all movies'
     puts '3 - List all music albums'
     puts '4 - List all games'
-    puts '5 - List all genres'
     puts '6 - List all labels'
     puts '7 - List all authors'
     puts '8 - List all sources'
@@ -38,8 +37,6 @@ class Main
       list_all_music_albums
     when 4
       list_of_games
-    when 5
-      list_all_genres
     when 6
       list_all_labels
     when 7
