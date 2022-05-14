@@ -35,11 +35,11 @@ class Main
     when 2
       list_all_movies
     when 3
-      list_all_music_albums
+      list_all_sources
     when 4
       list_of_games
     when 5
-      list_all_genres
+      list_all_sources
     when 6
       list_all_labels
     when 7
